@@ -23,7 +23,7 @@ The dataset was given in the folder "Data_preprocessing": **"DILI-Toxicity.csv"*
 
 # Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
-the file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
+This code file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
 all data would be saved as graph-structured data, reduced fingerprint data, and reduced descriptor data. 
 
 # Ablation Studies 
@@ -35,7 +35,7 @@ We have made many experiments before we got the best model. These codes in the "
  - **"Eksperiment_PUBCHEM.ipynb"**
  - **"Eksperiment_GRAPHDATA.ipynb"**
 
-these are the results from the ablation studies :
+These are the results from the ablation studies :
 ![image](https://github.com/user-attachments/assets/4b5bd516-a3be-473f-b765-25df7237a3a9)
 ![image](https://github.com/user-attachments/assets/550bb71a-38be-45a0-88ff-9a9fddbce0a7)
 ![image](https://github.com/user-attachments/assets/7bf34954-f681-4f53-8436-b8a3a48d5a23)
@@ -47,7 +47,8 @@ these are the results from the ablation studies :
 As mentioned before, we proposed the ensemble model. This model was realized in this code:  
 -**"hybrid_model_graph_MACCS_2.ipynb"** 
 -**"performance_result.ipynb"**
-the first code is used as optimization for the ensemble model by using the Optuna whereas the second code is used to show its performances of the best model resulted from the optimization. 
+
+The first code is used as optimization for the ensemble model by using the Optuna whereas the second code is used to show its performances of the best model resulted from the optimization. 
 this is the performance result of the ensemble model. 
 
  ![image](https://github.com/user-attachments/assets/fc29a734-6677-4d68-abec-9624fb498096)
