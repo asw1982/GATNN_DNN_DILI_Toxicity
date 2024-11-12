@@ -43,6 +43,13 @@ these are the results from the ablation studies :
 ![image](https://github.com/user-attachments/assets/b6302b47-72dd-4379-b5c8-d3b7b4d2b033)
 ![image](https://github.com/user-attachments/assets/b2d1d2ba-e46c-4483-901e-720c03296807)
 
+# Proposed Model 
+As mentioned before, we proposed the ensemble model. This model was realized in these code :  
+-**"hybrid_model_graph_MACCS_2.ipynb"** 
+-**"performance_result.ipynb"**
+the first code is used as optimization for the ensemble model by using the Optuna whereas the second code is used to show its performances of the best model resulted from the optimization. 
+this is the performance result of the ensemble model. 
 
+ ![image](https://github.com/user-attachments/assets/fc29a734-6677-4d68-abec-9624fb498096)
+![image](https://github.com/user-attachments/assets/f0949018-9e33-44d8-9e01-d939f865b357) ![image](https://github.com/user-attachments/assets/30b441ec-004c-4bf7-b9ee-e89f690e7f4c)
 
- 
