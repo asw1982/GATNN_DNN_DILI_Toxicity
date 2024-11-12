@@ -73,4 +73,6 @@ After getting the features, then it is ready to visualize by using this code :
 these are the results : 
 
 <img src="https://github.com/user-attachments/assets/1bb5c5a4-a5f7-4209-80b0-678775f87cf0" width="800" />
-![UMAP_features_C](https://github.com/user-attachments/assets/38dd3a50-28ee-43d2-a4f9-7b960922b363)  ![UMAP_features_A](https://github.com/user-attachments/assets/40900b71-1d0b-4a4b-ad64-57d70772d297)
+<img src="https://github.com/user-attachments/assets/38dd3a50-28ee-43d2-a4f9-7b960922b363" width="800" />
+<img src="https://github.com/user-attachments/assets/40900b71-1d0b-4a4b-ad64-57d70772d297" width="800" />
+
