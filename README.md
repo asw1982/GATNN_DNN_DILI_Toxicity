@@ -54,3 +54,10 @@ this is the performance result of the ensemble model.
  ![image](https://github.com/user-attachments/assets/fc29a734-6677-4d68-abec-9624fb498096)
 ![image](https://github.com/user-attachments/assets/f0949018-9e33-44d8-9e01-d939f865b357) ![image](https://github.com/user-attachments/assets/30b441ec-004c-4bf7-b9ee-e89f690e7f4c)
 
+# DILI_TOX_GATNN_app
+In this folder, we provided the code for creating the web server application in Render which is the free service provider. We saved the best model, the function for generating the prediction outcome, and the web application based on flask. 
+The code files can be accessed in : 
+- ** hybrid_app.py**
+- ** hybrid_function.py**
+The picture below is the display of the web server application after uploading all the codes to the Render.
+![DILI_webserver](https://github.com/user-attachments/assets/1c7adc71-8fb5-4463-9118-71daa1fcc760)
