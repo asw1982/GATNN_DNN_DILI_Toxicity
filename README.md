@@ -21,12 +21,12 @@ The environment was set by Anaconda and it can be seen in the **"dili_environmen
 
 The dataset was given in the folder "Data_preprocessing": **"DILI-Toxicity.csv"**
 
-# Data_preprocessing
+# 1. Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
 This code file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
 all data would be saved as graph-structured data, reduced fingerprint data, and reduced descriptor data. 
 
-# Ablation Studies 
+# 2. Ablation Studies 
 We have made many experiments before we got the best model. These codes in the "Ablation Studies" folder were utilized to run the DNN model with different input features and the GATNN model in standalone mode. 
  - **"Eksperiment_ECFP2.ipynb"**
  - **"Eksperiment_FUSION.ipynb"**
@@ -43,7 +43,7 @@ These are the results from the ablation studies :
 ![image](https://github.com/user-attachments/assets/b6302b47-72dd-4379-b5c8-d3b7b4d2b033)
 ![image](https://github.com/user-attachments/assets/b2d1d2ba-e46c-4483-901e-720c03296807)
 
-# Proposed Model 
+# 3. Proposed Model 
 As mentioned before, we proposed the ensemble model. This model was realized in this code:  
 - **"hybrid_model_graph_MACCS_2.ipynb"** 
 - **"performance_result.ipynb"**
@@ -54,7 +54,7 @@ this is the performance result of the ensemble model.
  ![image](https://github.com/user-attachments/assets/fc29a734-6677-4d68-abec-9624fb498096)
 ![image](https://github.com/user-attachments/assets/f0949018-9e33-44d8-9e01-d939f865b357) ![image](https://github.com/user-attachments/assets/30b441ec-004c-4bf7-b9ee-e89f690e7f4c)
 
-# DILI_TOX_GATNN_app
+# 4. DILI_TOX_GATNN_app
 In this folder, we provided the code for creating the web server application in Render which is the free service provider. We saved the best model, the function for generating the prediction outcome, and the web application based on flask. 
 The code files can be accessed in : 
 - ** hybrid_app.py**
@@ -63,7 +63,7 @@ The picture below is the display of the web server application after uploading a
 
 <img src="https://github.com/user-attachments/assets/1c7adc71-8fb5-4463-9118-71daa1fcc760" width="1500" />
 
-# UMAP Visualization 
+# 5. UMAP Visualization 
 The visualization of the tapping feature in the output of global mean pooling and concatenation was done in two steps. 
 The first step we generated and saved the feature in NumPy array by using this code :
 - **"UMAP_get_features.ipynb"**
