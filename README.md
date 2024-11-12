@@ -62,3 +62,14 @@ The code files can be accessed in :
 The picture below is the display of the web server application after uploading all the codes to the Render.
 
 <img src="https://github.com/user-attachments/assets/1c7adc71-8fb5-4463-9118-71daa1fcc760" width="1500" />
+
+# UMAP Visualization 
+The visualization of the tapping feature in the output of global mean pooling and concatenation was done in two steps. 
+The first step we generated and saved the feature in NumPy array by using this code :
+- **"UMAP_get_features.ipynb"**
+After getting the features, then it is ready to visualize by using this code : 
+- **"UMAP_visualization.ipynb"**
+
+these are the results : 
+![UMAP_tapping](https://github.com/user-attachments/assets/1bb5c5a4-a5f7-4209-80b0-678775f87cf0)
+![UMAP_features_C](https://github.com/user-attachments/assets/38dd3a50-28ee-43d2-a4f9-7b960922b363) ![UMAP_features_A](https://github.com/user-attachments/assets/40900b71-1d0b-4a4b-ad64-57d70772d297)
