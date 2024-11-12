@@ -21,7 +21,22 @@ The environment was set by Anaconda and it can be seen in the **"dili_environmen
 
 The dataset was given in the folder "Data_preprocessing": **"DILI-Toxicity.csv"**
 
-# 2. Data_preprocessing
+# Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
 the file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
 all data would be saved as graph-structured data, reduced fingerprint data, and reduced descriptor data. 
+
+# Ablation Studies 
+We have made many experiments before we got the best model. These codes in the "Ablation Studies" folder were utilized to run the DNN model with different input features and the GATNN model in standalone mode. 
+ - **"Eksperiment_ECFP2"**
+ - **"Eksperiment_FUSION"**
+ - **"Eksperiment_MACCS"**
+ - **"Eksperiment_MORDRED"**
+ - **"Eksperiment_PUBCHEM"**
+ - **"Eksperiment_GRAPHDATA"**
+
+these are the results from the ablation studies :
+![image](https://github.com/user-attachments/assets/4b5bd516-a3be-473f-b765-25df7237a3a9)
+
+
+ 
