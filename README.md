@@ -60,4 +60,5 @@ The code files can be accessed in :
 - ** hybrid_app.py**
 - ** hybrid_function.py**
 The picture below is the display of the web server application after uploading all the codes to the Render.
-![DILI_webserver](https://github.com/user-attachments/assets/1c7adc71-8fb5-4463-9118-71daa1fcc760)
+
+<img src="https://github.com/user-attachments/assets/1c7adc71-8fb5-4463-9118-71daa1fcc760" width="800" />
