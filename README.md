@@ -37,6 +37,12 @@ We have made many experiments before we got the best model. These codes in the "
 
 these are the results from the ablation studies :
 ![image](https://github.com/user-attachments/assets/4b5bd516-a3be-473f-b765-25df7237a3a9)
+![image](https://github.com/user-attachments/assets/550bb71a-38be-45a0-88ff-9a9fddbce0a7)
+![image](https://github.com/user-attachments/assets/7bf34954-f681-4f53-8436-b8a3a48d5a23)
+![image](https://github.com/user-attachments/assets/6a980ff4-d21e-44b2-bb9c-9909c184ee5a)
+![image](https://github.com/user-attachments/assets/b6302b47-72dd-4379-b5c8-d3b7b4d2b033)
+![image](https://github.com/user-attachments/assets/b2d1d2ba-e46c-4483-901e-720c03296807)
+
 
 
  
