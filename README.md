@@ -19,6 +19,8 @@ The environment was set by Anaconda and it can be seen in the **"dili_environmen
  - torch_geometric==2.3.1
  - torchvision==0.15.2
 
+The dataset was given in the folder "Data_preprocessing": **"DILI-Toxicity.csv"**
+
 # 2. Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
 the file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
