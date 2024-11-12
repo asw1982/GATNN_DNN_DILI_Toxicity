@@ -21,5 +21,5 @@ The environment was set by Anaconda and it can be seen in the **"dili_environmen
 
 # 2. Data_preprocessing
 In this folder, we made data preprocessing to repair, select, reduce, and find the most important data feature.
-the file **"preprocessing_data.ipynb"** will generate the finally clean data. 
-all the data would be saved as graph-structured data, reduced fingerprint data, and reduced descriptor data. 
+the file **"generate_graph_and_fusion_preprocessing.ipynb"** will generate the finally clean data. 
+all data would be saved as graph-structured data, reduced fingerprint data, and reduced descriptor data. 
