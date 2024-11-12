@@ -28,12 +28,12 @@ all data would be saved as graph-structured data, reduced fingerprint data, and 
 
 # Ablation Studies 
 We have made many experiments before we got the best model. These codes in the "Ablation Studies" folder were utilized to run the DNN model with different input features and the GATNN model in standalone mode. 
- - **"Eksperiment_ECFP2"**
- - **"Eksperiment_FUSION"**
- - **"Eksperiment_MACCS"**
- - **"Eksperiment_MORDRED"**
- - **"Eksperiment_PUBCHEM"**
- - **"Eksperiment_GRAPHDATA"**
+ - **"Eksperiment_ECFP2.ipynb"**
+ - **"Eksperiment_FUSION.ipynb"**
+ - **"Eksperiment_MACCS.ipynb"**
+ - **"Eksperiment_MORDRED.ipynb"**
+ - **"Eksperiment_PUBCHEM.ipynb"**
+ - **"Eksperiment_GRAPHDATA.ipynb"**
 
 these are the results from the ablation studies :
 ![image](https://github.com/user-attachments/assets/4b5bd516-a3be-473f-b765-25df7237a3a9)
